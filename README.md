@@ -4,24 +4,131 @@
 
 # Table of Content
 
-1. [Getting Started with Python Programming](https://www.pythontutorial.net/getting-started)
+A. [Getting Started with Python Programming](https://www.pythontutorial.net/getting-started)
 
-2. [Python Basics](https://www.pythontutorial.net/python-basics)
+B. [Python Basics](https://www.pythontutorial.net/python-basics)
+  * I. Section 1. Fundamentals
+    * 1. Syntax
+    * 2. Variables
+    * 3. Strings
+    * 4. Numbers
+    * 5. Booleans
+    * 6. Constants
+    * 7. Comments
+    * 8. Type conversion
 
-3. [Python OOP](https://www.pythontutorial.net/python-oop)
+  * II. Section 2. Operators
+    * 1. Comparison operators
+    * 2. Logical operators
 
-4. [Advanced Python](https://www.pythontutorial.net/advanced-python)
+  * III. Section 3. Control flow
+    * 1. if ... else statement
+    * 2. Ternary operator
+    * 3. for loop with range()
+    * 4. while
+    * 5. break
+    * 6. continue
+    * 7. pass
 
-5. [Python Concurrency](https://www.pythontutorial.net/python-concurrency)
+  * IV. Section 4. Functions
+    * 1. Python functions
+    * 2. Default parameters
+    * 3. Keyword arguments
+    * 4. Recursive function
+    * 5. Lmabda Expressions
+    * 6. Docstrings
 
-6. [Python Regex](https://www.pythontutorial.net/python-regex)
+  * V. Section 5. Lists
+    * 1. List
+    * 2. Tuple
+    * 3. Sort a list in place
+    * 4. Sort a List
+    * 5. Slice a List
+    * 6. Unpack a list
+    * 7. Iterate over a List
+    * 8. Find the index of an element
+    * 9. Iterables
+    * 10. Transform list elements with map()
+    * 11. Filter list elements with filter()
+    * 12. Reduce list elements into a value with reduce()
+    * 13. List comprehensions
 
-7. [Tkinter Tutorial](https://www.pythontutorial.net/tkinter)
+  * VI. Section 6. Dictionaries
+    * 1. Dictionary
+    * 2. Dictionary comprehension
 
-8. [Python Unit Testing](https://www.pythontutorial.net/python-unit-testing)
+  * VII. Section 7. Sets
+    * 1. Set
+    * 2. Set comprehension
+    * 3. Union of Sets
+    * 4. Intersection of Sets
+    * 5. Different of sets
+    * 6. Symmetric Difference of sets
+    * 7. Subset
+    * 8. Superset
+    * 9. Disjoin sets
 
-9. [Python NumPy](https://www.pythontutorial.net/python-numpy)
+  * VIII. Section 8. Exception handling
+    * 1. try ... except
+    * 2. try ... except ... finally
+    * 3. try ... except ... else
 
-10. [PyQt Tutorial](https://www.pythontutorial.net/pyqt)
+  * IX. Section 9. More on Python Loops
+    * 1. for ... else
+    * 2. while ... else
+    * 3. do ... while
 
-11. [Django Tutorial](https://www.pythontutorial.net/django-tutorial)
+  * X. Section 10. More on Python functions
+    * 1. Unpacking tuples
+    * 2. *args Parameters
+    * 3. **kwargs Parameters
+    * 4. Partial functions
+    * 5. Type hints
+
+  * XI. Section 11. Modules &  Packages
+    * 1. Modules
+    * 2. Module search path
+    * 3. __name__ variable
+    * 4. Packages
+
+  * XII. Section 12. Working with files
+    * 1. Read from a text file
+    * 2. Write to a text file
+    * 3. Create a new text file
+    * 4. Check if a file exists
+    * 5. Read CSV files
+    * 6. Write CSV files
+    * 7. Rename a file
+    * 8. Delete a file
+
+  * XIII. Section 13. Working Directories
+    * 1. Working with directories
+    * 2. List files in a Directory
+
+  * XIV. Section 14. Third-party Packages, PIP, and Virtual Environments
+    * 1. Python Pakage Index (PyPI) and pip
+    * 2. Virtual Environment
+    * 3. Install pipenv on Windows
+
+  * XV. Section 15. Strings
+    * 1. F-strings
+    * 2. Raw strings
+    * 3. Backslash
+
+C. [Python OOP](https://www.pythontutorial.net/python-oop)
+
+D. [Advanced Python](https://www.pythontutorial.net/advanced-python)
+
+E. [Python Concurrency](https://www.pythontutorial.net/python-concurrency)
+
+F. [Python Regex](https://www.pythontutorial.net/python-regex)
+
+G. [Tkinter Tutorial](https://www.pythontutorial.net/tkinter)
+
+H. [Python Unit Testing](https://www.pythontutorial.net/python-unit-testing)
+
+I. [Python NumPy](https://www.pythontutorial.net/python-numpy)
+
+J. [PyQt Tutorial](https://www.pythontutorial.net/pyqt)
+
+K. [Django Tutorial](https://www.pythontutorial.net/django-tutorial)
