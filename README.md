@@ -11,7 +11,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 1. Syntax
     * 2. Variables
     * 3. Strings
-    * 4. Numbers
+    * 4. [Numbers](https://github.com/LeTanThanh/python-numbers)
     * 5. Booleans
     * 6. Constants
     * 7. Comments
