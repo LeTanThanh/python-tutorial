@@ -54,7 +54,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 13. List comprehensions
 
   * VI. Section 6. Dictionaries
-    * 1. Dictionary
+    * 1. [Dictionary](https://github.com/LeTanThanh/python-tutorial-dictionary)
     * 2. Dictionary comprehension
 
   * VII. Section 7. Sets
