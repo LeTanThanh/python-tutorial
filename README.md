@@ -22,7 +22,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 2. Logical operators
 
   * III. Section 3. Control flow
-    * 1. if ... else statement
+    * 1. [if ... else statement](https://github.com/LeTanThanh/python-tutorial-if)
     * 2. Ternary operator
     * 3. for loop with range()
     * 4. while
