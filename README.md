@@ -96,7 +96,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 2. Write to a text file
     * 3. Create a new text file
     * 4. Check if a file exists
-    * 5. Read CSV files
+    * 5. [Read CSV files](https://github.com/LeTanThanh/python-tutorial-read-csv-file)
     * 6. Write CSV files
     * 7. Rename a file
     * 8. Delete a file
