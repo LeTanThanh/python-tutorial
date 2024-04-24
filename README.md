@@ -25,7 +25,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 1. [if ... else statement](https://github.com/LeTanThanh/python-tutorial-if)
     * 2. Ternary operator
     * 3. [for loop with range()](https://github.com/LeTanThanh/python-tutorial-for-range)
-    * 4. while
+    * 4. [while](https://github.com/LeTanThanh/python-tutorial-while)
     * 5. break
     * 6. continue
     * 7. pass
