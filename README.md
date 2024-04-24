@@ -69,7 +69,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 9. Disjoin sets
 
   * VIII. Section 8. Exception handling
-    * 1. try ... except
+    * 1. [try ... except](https://github.com/LeTanThanh/python-tutorial-try-except)
     * 2. try ... except ... finally
     * 3. try ... except ... else
 
