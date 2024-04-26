@@ -13,7 +13,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 3. [Strings](https://github.com/LeTanThanh/python-string)
     * 4. [Numbers](https://github.com/LeTanThanh/python-numbers)
     * 5. [Booleans](https://github.com/LeTanThanh/python-tutorial-boolean)
-    * 6. Constants
+    * 6. [Constants](https://github.com/LeTanThanh/python-tutorial-constants)
     * 7. Comments
     * 8. Type conversion
 
