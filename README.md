@@ -26,7 +26,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 2. [Ternary operator](https://github.com/LeTanThanh/python-tutorial-ternary-operator)
     * 3. [for loop with range()](https://github.com/LeTanThanh/python-tutorial-for-range)
     * 4. [while](https://github.com/LeTanThanh/python-tutorial-while)
-    * 5. break
+    * 5. [break](https://github.com/LeTanThanh/python-tutorial-break)
     * 6. continue
     * 7. pass
 
