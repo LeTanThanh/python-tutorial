@@ -8,7 +8,7 @@ A. [Getting Started with Python Programming](https://www.pythontutorial.net/gett
 
 B. [Python Basics](https://www.pythontutorial.net/python-basics)
   * I. Section 1. Fundamentals
-    * 1. Syntax
+    * 1. [Syntax](https://github.com/LeTanThanh/python-tutorial-syntax)
     * 2. Variables
     * 3. [Strings](https://github.com/LeTanThanh/python-string)
     * 4. [Numbers](https://github.com/LeTanThanh/python-numbers)
