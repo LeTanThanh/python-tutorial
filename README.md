@@ -23,7 +23,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
 
   * III. Section 3. Control flow
     * 1. [if ... else statement](https://github.com/LeTanThanh/python-tutorial-if)
-    * 2. Ternary operator
+    * 2. [Ternary operator](https://github.com/LeTanThanh/python-tutorial-ternary-operator)
     * 3. [for loop with range()](https://github.com/LeTanThanh/python-tutorial-for-range)
     * 4. [while](https://github.com/LeTanThanh/python-tutorial-while)
     * 5. break
