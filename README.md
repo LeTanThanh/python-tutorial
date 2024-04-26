@@ -14,7 +14,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 4. [Numbers](https://github.com/LeTanThanh/python-numbers)
     * 5. [Booleans](https://github.com/LeTanThanh/python-tutorial-boolean)
     * 6. [Constants](https://github.com/LeTanThanh/python-tutorial-constants)
-    * 7. Comments
+    * 7. [Comments](https://github.com/LeTanThanh/python-tutorial-comments)
     * 8. Type conversion
 
   * II. Section 2. Operators
