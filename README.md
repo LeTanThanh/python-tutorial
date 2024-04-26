@@ -19,7 +19,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
 
   * II. Section 2. Operators
     * 1. [Comparison operators](https://github.com/LeTanThanh/python-tutorial-comparison-operators)
-    * 2. Logical operators
+    * 2. [Logical operators](https://github.com/LeTanThanh/python-tutorial-logical-operators)
 
   * III. Section 3. Control flow
     * 1. [if ... else statement](https://github.com/LeTanThanh/python-tutorial-if)
