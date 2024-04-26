@@ -18,7 +18,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 8. [Type conversion](https://github.com/LeTanThanh/python-tutorial-type-conversion)
 
   * II. Section 2. Operators
-    * 1. Comparison operators
+    * 1. [Comparison operators](https://github.com/LeTanThanh/python-tutorial-comparison-operators)
     * 2. Logical operators
 
   * III. Section 3. Control flow
