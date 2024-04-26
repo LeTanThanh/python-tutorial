@@ -28,7 +28,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 4. [while](https://github.com/LeTanThanh/python-tutorial-while)
     * 5. [break](https://github.com/LeTanThanh/python-tutorial-break)
     * 6. [continue](https://github.com/LeTanThanh/python-tutorial-continue)
-    * 7. pass
+    * 7. [pass](https://github.com/LeTanThanh/python-tutorial-pass)
 
   * IV. Section 4. Functions
     * 1. Python functions
