@@ -36,7 +36,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 3. [Keyword arguments](https://github.com/LeTanThanh/python-tutorial-keyword-arguments)
     * 4. [Recursive function](https://github.com/LeTanThanh/python-tutorial-recursive-functions)
     * 5. [Lambda Expressions](https://github.com/LeTanThanh/python-tutorial-lambda-expressions)
-    * 6. Docstrings
+    * 6. [Docstrings](https://github.com/LeTanThanh/python-tutorial-function-docstrings)
 
   * V. Section 5. Lists
     * 1. List
