@@ -34,8 +34,8 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 1. [Python functions](https://github.com/LeTanThanh/python-tutorial-functions)
     * 2. [Default parameters](https://github.com/LeTanThanh/python-tutorial-default-parameters)
     * 3. [Keyword arguments](https://github.com/LeTanThanh/python-tutorial-keyword-arguments)
-    * 4. Recursive function
-    * 5. Lmabda Expressions
+    * 4. [Recursive function](https://github.com/LeTanThanh/python-tutorial-recursive-functions)
+    * 5. Lambda Expressions
     * 6. Docstrings
 
   * V. Section 5. Lists
