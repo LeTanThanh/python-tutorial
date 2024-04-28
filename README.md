@@ -31,7 +31,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 7. [pass](https://github.com/LeTanThanh/python-tutorial-pass)
 
   * IV. Section 4. Functions
-    * 1. Python functions
+    * 1. [Python functions](https://github.com/LeTanThanh/python-tutorial-functions)
     * 2. Default parameters
     * 3. Keyword arguments
     * 4. Recursive function
