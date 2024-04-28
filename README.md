@@ -32,7 +32,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
 
   * IV. Section 4. Functions
     * 1. [Python functions](https://github.com/LeTanThanh/python-tutorial-functions)
-    * 2. Default parameters
+    * 2. [Default parameters](https://github.com/LeTanThanh/python-tutorial-default-parameters)
     * 3. Keyword arguments
     * 4. Recursive function
     * 5. Lmabda Expressions
