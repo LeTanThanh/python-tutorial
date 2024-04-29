@@ -34,12 +34,12 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 1. [Python functions](https://github.com/LeTanThanh/python-tutorial-functions)
     * 2. [Default parameters](https://github.com/LeTanThanh/python-tutorial-default-parameters)
     * 3. [Keyword arguments](https://github.com/LeTanThanh/python-tutorial-keyword-arguments)
-    * 4. [Recursive function](https://github.com/LeTanThanh/python-tutorial-recursive-functions)
+    * 4. [Recursive functions](https://github.com/LeTanThanh/python-tutorial-recursive-functions)
     * 5. [Lambda Expressions](https://github.com/LeTanThanh/python-tutorial-lambda-expressions)
     * 6. [Docstrings](https://github.com/LeTanThanh/python-tutorial-function-docstrings)
 
   * V. Section 5. Lists
-    * 1. List
+    * 1. [List](https://github.com/LeTanThanh/python-tutorial-list))
     * 2. Tuple
     * 3. Sort a list in place
     * 4. Sort a List
