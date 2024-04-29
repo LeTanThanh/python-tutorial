@@ -39,8 +39,8 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 6. [Docstrings](https://github.com/LeTanThanh/python-tutorial-function-docstrings)
 
   * V. Section 5. Lists
-    * 1. [List](https://github.com/LeTanThanh/python-tutorial-list))
-    * 2. Tuple
+    * 1. [List](https://github.com/LeTanThanh/python-tutorial-list)
+    * 2. [Tuple](https://github.com/LeTanThanh/python-tutorial-tuple)
     * 3. Sort a list in place
     * 4. Sort a List
     * 5. Slice a List
