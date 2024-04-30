@@ -43,7 +43,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 2. [Tuple](https://github.com/LeTanThanh/python-tutorial-tuple)
     * 3. [Sort a list in place](https://github.com/LeTanThanh/python-tutorial-sort-list)
     * 4. [Sort a List](https://github.com/LeTanThanh/python-tutorial-sorted)
-    * 5. Slice a List
+    * 5. [Slice a List](https://github.com/LeTanThanh/python-tutorial-list-slice)
     * 6. Unpack a list
     * 7. Iterate over a List
     * 8. Find the index of an element
