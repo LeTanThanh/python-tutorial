@@ -42,7 +42,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 1. [List](https://github.com/LeTanThanh/python-tutorial-list)
     * 2. [Tuple](https://github.com/LeTanThanh/python-tutorial-tuple)
     * 3. [Sort a list in place](https://github.com/LeTanThanh/python-tutorial-sort-list)
-    * 4. Sort a List
+    * 4. [Sort a List](https://github.com/LeTanThanh/python-tutorial-sorted)
     * 5. Slice a List
     * 6. Unpack a list
     * 7. Iterate over a List
