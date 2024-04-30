@@ -49,7 +49,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 8. [Find the index of an element](https://github.com/LeTanThanh/python-tutorial-find-index-of-element-in-list)
     * 9. [Iterables](https://github.com/LeTanThanh/python-tutorial-iterables)
     * 10. [Transform list elements with map()](https://github.com/LeTanThanh/python-tutorial-map-list)
-    * 11. Filter list elements with filter()
+    * 11. [Filter list elements with filter()](https://github.com/LeTanThanh/python-tutorial-filter-list)
     * 12. Reduce list elements into a value with reduce()
     * 13. List comprehensions
 
