@@ -71,7 +71,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
   * VIII. Section 8. Exception handling
     * 1. [try ... except](https://github.com/LeTanThanh/python-tutorial-try-except)
     * 2. try ... except ... finally
-    * 3. try ... except ... else
+    * 3. [try ... except ... else](https://github.com/LeTanThanh/python-tutorial-try-except-else)
 
   * IX. Section 9. More on Python Loops
     * 1. for ... else
