@@ -51,7 +51,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 10. [Transform list elements with map()](https://github.com/LeTanThanh/python-tutorial-map-list)
     * 11. [Filter list elements with filter()](https://github.com/LeTanThanh/python-tutorial-filter-list)
     * 12. [Reduce list elements into a value with reduce()](https://github.com/LeTanThanh/python-tutorial-reduce-list)
-    * 13. List comprehensions
+    * 13. [List comprehensions](https://github.com/LeTanThanh/python-tutorial-list-comprehensions)
 
   * VI. Section 6. Dictionaries
     * 1. [Dictionary](https://github.com/LeTanThanh/python-tutorial-dictionary)
