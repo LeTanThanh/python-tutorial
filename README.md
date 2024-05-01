@@ -58,7 +58,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 2. [Dictionary comprehension](https://github.com/LeTanThanh/python-tutorial-dictionary-comprehension)
 
   * VII. Section 7. Sets
-    * 1. Set
+    * 1. [Set](https://github.com/LeTanThanh/python-tutorial-set)
     * 2. Set comprehension
     * 3. Union of Sets
     * 4. Intersection of Sets
