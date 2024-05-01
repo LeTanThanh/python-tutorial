@@ -64,7 +64,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 4. [Intersection of Sets](https://github.com/LeTanThanh/python-tutorial-set-intersection)
     * 5. [Different of sets](https://github.com/LeTanThanh/python-tutorial-set-difference)
     * 6. [Symmetric Difference of sets](https://github.com/LeTanThanh/python-tutorial-symmetric-difference)
-    * 7. Subset
+    * 7. [Subset](https://github.com/LeTanThanh/python-tutorial-issubset)
     * 8. Superset
     * 9. Disjoin sets
 
