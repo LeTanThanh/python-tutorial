@@ -61,7 +61,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 1. [Set](https://github.com/LeTanThanh/python-tutorial-set)
     * 2. [Set comprehension](https://github.com/LeTanThanh/python-tutorial-set-comprehension)
     * 3. [Union of Sets](https://github.com/LeTanThanh/python-tutorial-set-union)
-    * 4. Intersection of Sets
+    * 4. [Intersection of Sets](https://github.com/LeTanThanh/python-tutorial-set-intersection)
     * 5. Different of sets
     * 6. Symmetric Difference of sets
     * 7. Subset
