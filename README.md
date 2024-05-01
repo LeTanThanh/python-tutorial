@@ -50,7 +50,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 9. [Iterables](https://github.com/LeTanThanh/python-tutorial-iterables)
     * 10. [Transform list elements with map()](https://github.com/LeTanThanh/python-tutorial-map-list)
     * 11. [Filter list elements with filter()](https://github.com/LeTanThanh/python-tutorial-filter-list)
-    * 12. Reduce list elements into a value with reduce()
+    * 12. [Reduce list elements into a value with reduce()](https://github.com/LeTanThanh/python-tutorial-reduce-list)
     * 13. List comprehensions
 
   * VI. Section 6. Dictionaries
