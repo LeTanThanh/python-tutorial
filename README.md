@@ -60,7 +60,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
   * VII. Section 7. Sets
     * 1. [Set](https://github.com/LeTanThanh/python-tutorial-set)
     * 2. [Set comprehension](https://github.com/LeTanThanh/python-tutorial-set-comprehension)
-    * 3. Union of Sets
+    * 3. [Union of Sets](https://github.com/LeTanThanh/python-tutorial-set-union)
     * 4. Intersection of Sets
     * 5. Different of sets
     * 6. Symmetric Difference of sets
