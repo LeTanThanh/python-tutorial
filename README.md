@@ -74,7 +74,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 3. [try ... except ... else](https://github.com/LeTanThanh/python-tutorial-try-except-else)
 
   * IX. Section 9. More on Python Loops
-    * 1. for ... else
+    * 1. [for ... else](https://github.com/LeTanThanh/python-tutorial-for-else)
     * 2. while ... else
     * 3. do ... while
 
