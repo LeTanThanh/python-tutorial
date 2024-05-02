@@ -81,7 +81,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
   * X. Section 10. More on Python functions
     * 1. [Unpacking tuples](https://github.com/LeTanThanh/python-tutorial-unpacking-tuple)
     * 2. [*args Parameters](https://github.com/LeTanThanh/python-tutorial-args)
-    * 3. **kwargs Parameters
+    * 3. [**kwargs Parameters](https://github.com/LeTanThanh/python-tutorial-kwargs)
     * 4. Partial functions
     * 5. Type hints
 
