@@ -75,7 +75,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
 
   * IX. Section 9. More on Python Loops
     * 1. [for ... else](https://github.com/LeTanThanh/python-tutorial-for-else)
-    * 2. while ... else
+    * 2. [while ... else](https://github.com/LeTanThanh/python-tutorial-while-else)
     * 3. do ... while
 
   * X. Section 10. More on Python functions
