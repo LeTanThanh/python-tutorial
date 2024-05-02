@@ -83,7 +83,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 2. [*args Parameters](https://github.com/LeTanThanh/python-tutorial-args)
     * 3. [**kwargs Parameters](https://github.com/LeTanThanh/python-tutorial-kwargs)
     * 4. [Partial functions](https://github.com/LeTanThanh/python-tutorial-partial-functions)
-    * 5. Type hints
+    * 5. [Type hints](https://github.com/LeTanThanh/python-tutorial-type-hints)
 
   * XI. Section 11. Modules &  Packages
     * 1. Modules
