@@ -79,7 +79,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 3. [do ... while](https://github.com/LeTanThanh/python-tutorial-do-while)
 
   * X. Section 10. More on Python functions
-    * 1. Unpacking tuples
+    * 1. [Unpacking tuples](https://github.com/LeTanThanh/python-tutorial-unpacking-tuple)
     * 2. *args Parameters
     * 3. **kwargs Parameters
     * 4. Partial functions
