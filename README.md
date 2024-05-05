@@ -89,7 +89,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 1. [Modules](https://github.com/LeTanThanh/python-tutorial-module)
     * 2. [Module search path](https://github.com/LeTanThanh/python-tutorial-module-search-path)
     * 3. [__name \_variable](https://github.com/LeTanThanh/python-tutorial-__name__)
-    * 4. Packages
+    * 4. [Packages](https://github.com/LeTanThanh/python-tutorial-packages)
 
   * XII. Section 12. Working with files
     * 1. Read from a text file
