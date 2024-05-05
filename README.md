@@ -87,7 +87,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
 
   * XI. Section 11. Modules &  Packages
     * 1. [Modules](https://github.com/LeTanThanh/python-tutorial-module)
-    * 2. Module search path
+    * 2. [Module search path](https://github.com/LeTanThanh/python-tutorial-module-search-path)
     * 3. __name__ variable
     * 4. Packages
 
