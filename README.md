@@ -93,7 +93,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
 
   * XII. Section 12. Working with files
     * 1. [Read from a text file](https://github.com/LeTanThanh/python-tutorial-read-text-file)
-    * 2. Write to a text file
+    * 2. [Write to a text file](https://github.com/LeTanThanh/python-tutorial-write-text-file)
     * 3. Create a new text file
     * 4. Check if a file exists
     * 5. [Read CSV files](https://github.com/LeTanThanh/python-tutorial-read-csv-file)
