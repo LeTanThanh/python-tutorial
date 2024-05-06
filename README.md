@@ -123,7 +123,7 @@ C. [Python OOP](https://www.pythontutorial.net/python-oop)
     * 4. [Instance methods](https://github.com/LeTanThanh/python-tutorial-methods)
     * 5. [\_\_init\_\_()](https://github.com/LeTanThanh/python-tutorial-__init__)
     * 6. [Instance variables](https://github.com/LeTanThanh/python-tutorial-instance-variables)
-    * 7. Private attributes 
+    * 7. [Private attributes](https://github.com/LeTanThanh/python-tutorial-private-attributes)
     * 8. Class attributes 
     * 9. Static methods
 
