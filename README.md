@@ -99,7 +99,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 5. [Read CSV files](https://github.com/LeTanThanh/python-tutorial-read-csv-file)
     * 6. [Write CSV files](https://github.com/LeTanThanh/python-tutorial-write-csv-file)
     * 7. [Rename a file](https://github.com/LeTanThanh/python-tutorial-rename-file)
-    * 8. Delete a file
+    * 8. [Delete a file](https://github.com/LeTanThanh/python-tutorial-delete-file)
 
   * XIII. Section 13. Working Directories
     * 1. Working with directories
