@@ -117,7 +117,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
 
 C. [Python OOP](https://www.pythontutorial.net/python-oop)
   * I. Section 1. Classes and objects
-    * 1. Object-oriented programming 
+    * 1. [Object-oriented programming](https://github.com/LeTanThanh/python-tutorial-object-oriented-programming)
     * 2. Class
     * 3. Class variables
     * 4. Instance methods
