@@ -98,7 +98,7 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 4. [Check if a file exists](https://github.com/LeTanThanh/python-tutorial-check-if-file-exists)
     * 5. [Read CSV files](https://github.com/LeTanThanh/python-tutorial-read-csv-file)
     * 6. [Write CSV files](https://github.com/LeTanThanh/python-tutorial-write-csv-file)
-    * 7. Rename a file
+    * 7. [Rename a file](https://github.com/LeTanThanh/python-tutorial-rename-file)
     * 8. Delete a file
 
   * XIII. Section 13. Working Directories
