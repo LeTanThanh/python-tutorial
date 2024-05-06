@@ -124,7 +124,7 @@ C. [Python OOP](https://www.pythontutorial.net/python-oop)
     * 5. [\_\_init\_\_()](https://github.com/LeTanThanh/python-tutorial-__init__)
     * 6. [Instance variables](https://github.com/LeTanThanh/python-tutorial-instance-variables)
     * 7. [Private attributes](https://github.com/LeTanThanh/python-tutorial-private-attributes)
-    * 8. Class attributes 
+    * 8. [Class attributes](https://github.com/LeTanThanh/python-tutorial-class-attributes)
     * 9. Static methods
 
   * II. Section 2. Special methods
