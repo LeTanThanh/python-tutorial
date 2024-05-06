@@ -116,6 +116,72 @@ B. [Python Basics](https://www.pythontutorial.net/python-basics)
     * 3. Backslash
 
 C. [Python OOP](https://www.pythontutorial.net/python-oop)
+  * I. Section 1. Classes and objects
+    * 1. Object-oriented programming 
+    * 2. Class
+    * 3. Class variables
+    * 4. Instance methods
+    * 5. \_\_init\_\_()
+    * 6. Instance variables
+    * 7. Private attributes 
+    * 8. Class attributes 
+    * 9. Static methods
+
+  * II. Section 2. Special methods
+    * 1. \_\_str\_\_ method 
+    * 2. \_\_repr\_\_ method
+    * 3. \_\_eq\_\_ method
+    * 4. \_\_hash\_\_ method
+    * 5. \_\_bool\_\_ method
+    * 6. \_\_del\_\_ method
+
+  * III. Section 3. Property
+    * 1. Property
+    * 1. @property decorator
+    * 1. Read-only property 
+    * 1. Delete a property
+
+  * IV. Section 4. Single inheritance
+    * 1. Inheritance
+    * 2. Overriding methods
+    * 3. super() 
+    * 4. __slots__ 
+    * 5. Abstract class
+
+  * V. Section 5. Enumeration
+    * 1. Enumeration
+    * 2. Enum Aliases & @enum.unique
+    * 3. Customize and extend enumerations
+    * 4. auto
+
+  * VI. Section 6. SOLID principles
+    * 1. Single Responsibility Principle
+    * 2. Open/Closed Principle
+    * 3. Liskov Substitution Principle
+    * 4. Interface Segregation Principle
+    * 5. Dependency Inversion Principle
+
+  * VII. Section 7. Multiple inheritance
+    * 1. Multiple inheritance 
+    * 2. Mixin
+
+  * VIII. Section 8. Descriptors
+    * 1. Descriptors
+    * 2. Data vs non-data descriptors
+
+  * IX. Section 9. Metaprogramming
+    * 1. __new__
+    * 2. type class 
+    * 3. Metaclass
+    * 4. Metaclass example
+    * 5. dataclass
+
+  * X. Section 10. Exceptions
+    * 1. Exceptions
+    * 1. Exception Handling
+    * 2. Raise Exceptions
+    * 3. Raise Exception from cause
+    * 4. Custom exceptions
 
 D. [Advanced Python](https://www.pythontutorial.net/advanced-python)
 
