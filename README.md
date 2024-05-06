@@ -193,6 +193,32 @@ G. [Tkinter Tutorial](https://www.pythontutorial.net/tkinter)
 
 H. [Python Unit Testing](https://www.pythontutorial.net/python-unit-testing)
 
+  * I. Section 1. Introduction to unit testing in Python
+    * 1. What is unit testing
+    * 2. Test fixtures
+    * 3. Skipping tests
+    * 4. Running unittest
+
+  * II. Section 2. assert methods
+    * 1. assert methods
+    * 2. assertEqual()
+    * 3. assertAlmostEqual()
+    * 4. assertIs()
+    * 5. assertIsInstance()
+    * 6. assertIsNone()
+    * 7. assertTrue()
+    * 8. assertFalse()
+
+  * III. Section 3. Test doubles
+    * 1. Mock
+    * 2. patch()
+    * 3. Stubs()
+    * 4. Mocking requests module
+
+  * IV. Section 4. Test coverage & Parameterized tests
+    * 1. Generating test coverage reports
+    * 2. Defining parameterized tests using subTest()
+
 I. [Python NumPy](https://www.pythontutorial.net/python-numpy)
 
 J. [PyQt Tutorial](https://www.pythontutorial.net/pyqt)
