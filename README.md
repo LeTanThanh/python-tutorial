@@ -121,7 +121,7 @@ C. [Python OOP](https://www.pythontutorial.net/python-oop)
     * 2. [Class](https://github.com/LeTanThanh/python-tutorial-class)
     * 3. [Class variables](https://github.com/LeTanThanh/python-tutorial-class-variables)
     * 4. [Instance methods](https://github.com/LeTanThanh/python-tutorial-methods)
-    * 5. \_\_init\_\_()
+    * 5. [\_\_init\_\_()](https://github.com/LeTanThanh/python-tutorial-__init__)
     * 6. Instance variables
     * 7. Private attributes 
     * 8. Class attributes 
