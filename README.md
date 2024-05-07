@@ -196,7 +196,7 @@ H. [Python Unit Testing](https://www.pythontutorial.net/python-unit-testing)
   * I. Section 1. Introduction to unit testing in Python
     * 1. [What is unit testing](https://github.com/LeTanThanh/python-tutorial-unittest)
     * 2. [Test fixtures](https://github.com/LeTanThanh/python-tutorial-test-fixtures)
-    * 3. Skipping tests
+    * 3. [Skipping tests](https://github.com/LeTanThanh/python-tutorial-unittest-skip-test)
     * 4. Running unittest
 
   * II. Section 2. assert methods
