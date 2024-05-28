@@ -128,7 +128,7 @@ C. [Python OOP](https://www.pythontutorial.net/python-oop)
     * 9. [Static methods](https://github.com/LeTanThanh/python-tutorial-static-methods)
 
   * II. Section 2. Special methods
-    * 1. \_\_str\_\_ method 
+    * 1. [\_\_str\_\_ method](https://github.com/LeTanThanh/python-tutorial-str)
     * 2. \_\_repr\_\_ method
     * 3. \_\_eq\_\_ method
     * 4. \_\_hash\_\_ method
