@@ -131,7 +131,7 @@ C. [Python OOP](https://www.pythontutorial.net/python-oop)
     * 1. [\_\_str\_\_ method](https://github.com/LeTanThanh/python-tutorial-str)
     * 2. [\_\_repr\_\_ method](https://github.com/LeTanThanh/python-tutorial-repr)
     * 3. [\_\_eq\_\_ method](https://github.com/LeTanThanh/python-tutorial-eq)
-    * 4. \_\_hash\_\_ method
+    * 4. [\_\_hash\_\_ method](https://github.com/LeTanThanh/python-tutorial-hash)
     * 5. \_\_bool\_\_ method
     * 6. \_\_del\_\_ method
 
