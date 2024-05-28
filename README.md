@@ -133,7 +133,7 @@ C. [Python OOP](https://www.pythontutorial.net/python-oop)
     * 3. [\_\_eq\_\_ method](https://github.com/LeTanThanh/python-tutorial-eq)
     * 4. [\_\_hash\_\_ method](https://github.com/LeTanThanh/python-tutorial-hash)
     * 5. [\_\_bool\_\_ method](https://github.com/LeTanThanh/python-tutorial-bool)
-    * 6. \_\_del\_\_ method
+    * 6. [\_\_del\_\_ method](https://github.com/LeTanThanh/python-tutorial-del)
 
   * III. Section 3. Property
     * 1. Property
