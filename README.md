@@ -138,7 +138,7 @@ C. [Python OOP](https://www.pythontutorial.net/python-oop)
   * III. Section 3. Property
     * 1. [Property](https://github.com/LeTanThanh/python-tutorial-properties)
     * 1. [@property decorator](https://github.com/LeTanThanh/python-tutorial-property-decorator)
-    * 1. Read-only property 
+    * 1. [Read-only property](https://github.com/LeTanThanh/python-tutorial-readonly-property)
     * 1. Delete a property
 
   * IV. Section 4. Single inheritance
