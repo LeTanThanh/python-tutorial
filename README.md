@@ -136,7 +136,7 @@ C. [Python OOP](https://www.pythontutorial.net/python-oop)
     * 6. [\_\_del\_\_ method](https://github.com/LeTanThanh/python-tutorial-del)
 
   * III. Section 3. Property
-    * 1. Property
+    * 1. [Property](https://github.com/LeTanThanh/python-tutorial-properties)
     * 1. @property decorator
     * 1. Read-only property 
     * 1. Delete a property
