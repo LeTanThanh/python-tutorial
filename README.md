@@ -143,7 +143,7 @@ C. [Python OOP](https://www.pythontutorial.net/python-oop)
 
   * IV. Section 4. Single inheritance
     * 1. [Inheritance](https://github.com/LeTanThanh/python-tutorial-inheritance)
-    * 2. Overriding methods
+    * 2. [Overriding methods](https://github.com/LeTanThanh/python-tutorial-overriding-method)
     * 3. super() 
     * 4. __slots__ 
     * 5. Abstract class
