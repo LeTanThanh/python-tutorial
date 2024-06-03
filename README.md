@@ -145,7 +145,7 @@ C. [Python OOP](https://www.pythontutorial.net/python-oop)
     * 1. [Inheritance](https://github.com/LeTanThanh/python-tutorial-inheritance)
     * 2. [Overriding methods](https://github.com/LeTanThanh/python-tutorial-overriding-method)
     * 3. [super()](https://github.com/LeTanThanh/python-tutorial-super) 
-    * 4. __slots__ 
+    * 4. [\_\_slots\_\_](https://github.com/LeTanThanh/python-tutorial-slots)
     * 5. Abstract class
 
   * V. Section 5. Enumeration
