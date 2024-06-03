@@ -142,7 +142,7 @@ C. [Python OOP](https://www.pythontutorial.net/python-oop)
     * 1. [Delete a property](https://github.com/LeTanThanh/python-tutorial-delete-property)
 
   * IV. Section 4. Single inheritance
-    * 1. Inheritance
+    * 1. [Inheritance](https://github.com/LeTanThanh/python-tutorial-inheritance)
     * 2. Overriding methods
     * 3. super() 
     * 4. __slots__ 
