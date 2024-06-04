@@ -149,7 +149,7 @@ C. [Python OOP](https://www.pythontutorial.net/python-oop)
     * 5. [Abstract class](https://github.com/LeTanThanh/python-tutorial-abstract-class)
 
   * V. Section 5. Enumeration
-    * 1. Enumeration
+    * 1. [Enumeration](https://github.com/LeTanThanh/python-tutorial-enumeration)
     * 2. Enum Aliases & @enum.unique
     * 3. Customize and extend enumerations
     * 4. auto
